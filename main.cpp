@@ -3,10 +3,7 @@ Program Name: main.cpp
 Input File: customers.txt
 Output Files: report.txt
               report_of_errors.txt
-Author Name: Anastasiia Melnikova
-Course: CSC 201
-Professor: Pam Smith
-02/28/2018
+Author: stanislavamv
 The program creates a detailed billing
 report for a company that provides tax
 consultations for customers.
