@@ -1,0 +1,2 @@
+Error. The yearly income must be greater than zero. Customer: J Hancock id#1212
+Error. Invalid Agent ID #5 Customer: O Knowles id#3456

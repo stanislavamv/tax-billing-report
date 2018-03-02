@@ -1,0 +1,12 @@
+                                                    Billing Report
+
+Customer Name      Customer ID       Yearly Income   Consulting Time    Amount Due    Low Income      Agent Name      Rate
+
+J Jones             33567            25000.00$         30 mins            0.00$            Y          Bortles       65.00$
+R Grover                87           250000.00$        120 mins           45.00$            N             Watt       75.00$
+B Roebuck                 7           300000.01$         90 mins           30.00$            N             Watt       75.00$
+J Hancock              1212                0.00$         20 mins            0.00$            Y          Bortles       65.00$
+D Vaughan             12234           100000.00$         60 mins           15.00$            N             Watt       75.00$
+E Blackwell              1821            32000.00$         45 mins            7.00$            N            Cower       70.00$
+O Knowles              3456            50000.00$         35 mins            7.00$            N              ID 5(N/A)      N/A
+J Anderson              1998            18000.00$         19 mins            0.00$            Y          Bortles       65.00$
