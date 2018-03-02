@@ -1,5 +1,5 @@
 Program:  main.cpp
-Author:  Anastasiia Melnikova
+Author:  stanislavamv
 Input File:  customers.txt
 Output Files: report.txt
 	      report_of_errors.txt
